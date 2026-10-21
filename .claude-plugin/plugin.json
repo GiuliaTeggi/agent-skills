@@ -1,0 +1,6 @@
+{
+  "name": "agent-skills",
+  "description": "Giulia Teggi's agent skills for code review and cleanup.",
+  "version": "0.1.0",
+  "author": { "name": "Giulia Teggi" }
+}

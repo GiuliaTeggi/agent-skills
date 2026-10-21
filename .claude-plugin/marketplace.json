@@ -1,0 +1,11 @@
+{
+  "name": "giuliateggi-agent-skills",
+  "owner": { "name": "Giulia Teggi" },
+  "plugins": [
+    {
+      "name": "agent-skills",
+      "source": "./",
+      "description": "Giulia Teggi's agent skills for code review and cleanup."
+    }
+  ]
+}
